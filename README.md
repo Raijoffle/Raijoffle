@@ -52,11 +52,11 @@ I-am-raijoffle@github
 
 <h3 align="center">My Favorite Programming Languages</h3>
 <p align="center">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
-  <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>    
-  <img alt="Sql" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
-  <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea"></a> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-35495E?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
+   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a> 
+  <img alt="Node Js" src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=00ff00"></a>    
+  <img alt="Nuxt Js" src="https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=4FC08D"></a> 
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-35495E?style=for-the-badge&logo=vite&logoColor=FFD62E"></a> 
 </p>
 
 
