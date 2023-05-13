@@ -44,7 +44,7 @@ I-am-raijoffle@github
   
 <div align="center">
   
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/egrus)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Raijoffle&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/raijoffle)
 </div> 
 
 <hr>
@@ -63,8 +63,8 @@ I-am-raijoffle@github
 <div align="center">
 <h2 align="center">My Github Stats...</h2>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egrus&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egrus&theme=tokyonight&mode=daily)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raijoffle&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raijoffle&theme=tokyonight&mode=daily)](https://git.io/streak-stats)
 </div>
 <hr>
 
