@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Egrus!
+Hi, I'm Çağrı!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/>
 <br/>
@@ -16,28 +16,28 @@ Hi, I'm Egrus!
 <hr>
 
 ```
-I-am-egrus@github
+I-am-raijoffle@github
 -------------------------
 💻 I am a self taught Full Stack Developer
-📚 I have a Bachelor of Science in Computer Science from Gazi University in Turkey
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Html, Css, JavaScript
+🉐 Main Framework: Vue Js, Vite Js, Nuxt Js
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, anime, jazz and soft music
+🎵 Love every type music
 ```
 <div align="center">
 <h3>Projects I continue to work on...</h3>
 
-<a href="https://theeaglesclan.online" target="_blank">![WEBSITE](https://img.shields.io/badge/theeaglesclan.online-blue?style=for-the-badge)</a>
-<a target="_blank" href="https://discord.com/users/297762444434997249"><img alt="Discord" src="https://img.shields.io/badge/Rust | AlphaProject%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://rustopic.com" target="_blank">![WEBSITE](https://img.shields.io/badge/Rustopic.com-blue?style=for-the-badge)</a>
+<a href="https://export.raijoffle.com" target="_blank">![WEBSITE](https://img.shields.io/badge/export.raijoffle.com-red?style=for-the-badge)</a>
+<a target="_blank" href="https://discord.com/users/455086518856581161"><img alt="Discord" src="https://img.shields.io/badge/Project Details...-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://company.raijoffle.com" target="_blank">![WEBSITE](https://img.shields.io/badge/company.raijoffle.com-blue?style=for-the-badge)</a>
   </div>  
 
 <div align="center">
 <h3>Contact me</h3>
   
-  <a href="https://discord.com/users/297762444434997249">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-Egrus!%230001-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
+  <a href="https://discord.com/users/455086518856581161">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-Raijoffle💓Çağrı ✿!%230001-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
   <br/>
   
