@@ -8,7 +8,11 @@ Hi, I'm Egrus!
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media.tenor.com/vtPf0qwfpagAAAAd/regal-t-bullet-train.gif" width="250" height="210" />
+<div align="center">
+<img src="https://github.com/Raijoffle/Raijoffle/blob/main/regal-t-bullet-train.gif" width="520" />
+</div>
+
+
 <hr>
 
 ```
